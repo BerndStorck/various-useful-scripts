@@ -1,0 +1,14 @@
+Bankname,BLZ,BIC,Sitz (Hauptniederlassung)
+Berliner Sparkasse (LBB),10050000,BELADEBEXXX,Berlin
+Comdirect,20041144,COBADEHD044,Quickborn
+Commerzbank,10040000,COBADEBBXXX,Berlin
+Deutsche Bank,10070000,DEUTDEBBXXX,Berlin
+DKB (Deutsche Kreditbank),12030000,BYLADEM1001,Berlin
+GLS Bank,43060967,GENODEM1GLS,Bochum
+HypoVereinsbank,76010085,HYVEDEMMXXX,München
+ING Deutschland,50010517,INGDDEFFXXX,Frankfurt am Main
+N26 Bank,10011001,NTSBDEB1XXX,Berlin
+norisbank,10077777,NORSDE51XXX,Berlin
+Postbank,10010010,PBNKDEFFXXX,Berlin
+Santander Bank,10033300,SCFBDE33XXX,Berlin
+Targobank,10020890,CMCIDEDDXXX,Berlin
